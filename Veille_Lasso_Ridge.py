@@ -217,10 +217,3 @@ plt.show()
 
 print("\nmin MSE lasso : {0:.3f}".format(min(errors)[1]))
 
-
-
-#statisticsformachinelearning.pdf
-#Data Science Fondamentaux et études de cas-Eyrolles.epub
-#
-
-
