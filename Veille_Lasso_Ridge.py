@@ -12,7 +12,7 @@ from sklearn import linear_model
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import Lasso
 
-plt.rcParams['figure.figsize'] = 15, 10
+plt.rcParams['figure.figsize'] = 5, 5
 
 raw_data = pd.read_csv('prostate_dataset.txt', delimiter='\t')
 
